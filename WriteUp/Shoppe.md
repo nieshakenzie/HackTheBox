@@ -50,3 +50,4 @@ We got the /login/ page.
 
 <img src="https://user-images.githubusercontent.com/67650329/197532349-cee2cede-102a-4648-ba19-47a470063be7.png" width="250px" align="center">
 
+We can injection this login page use `admin'||''==='`
