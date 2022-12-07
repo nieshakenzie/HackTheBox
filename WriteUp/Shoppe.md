@@ -2,7 +2,7 @@
 
 You can access machine [here](https://app.hackthebox.com/machines/Shoppy)
 
-<img src="https://user-images.githubusercontent.com/67650329/197530588-13e69573-b288-4ad0-82ab-ac8d0ad1f0ed.png" width="500px" align="center">
+<img src="https://user-images.githubusercontent.com/67650329/197530588-13e69573-b288-4ad0-82ab-ac8d0ad1f0ed.png" width="300px" align="center">
 
 ---
 Let's do this.
