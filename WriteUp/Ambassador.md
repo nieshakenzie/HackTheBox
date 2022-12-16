@@ -4,9 +4,8 @@ You can access machine [here](https://app.hackthebox.com/machines/photobomb)
 
 <img src="https://user-images.githubusercontent.com/67650329/208110807-3c7e022f-c6f3-4484-9f86-ec3460080c7f.png" width="300px" align="center">
 
----
 
-### Scanning / Enumeration
+## Scanning / Enumeration
 
 `nmap -sC -sV -p- -T4 {IP}`
 
