@@ -1,6 +1,6 @@
 ## Photobomb | HackTheBox
 
-You can access machine [here](https://app.hackthebox.com/machines/photobomb)
+You can access machine [here](https://app.hackthebox.com/machines/Ambassador)
 
 <img src="https://user-images.githubusercontent.com/67650329/206399168-be61400d-a89c-49c5-8c19-b0210708b5a5.png" width="300px" align="center">
 
