@@ -7,3 +7,4 @@
 |3|<img src="https://user-images.githubusercontent.com/67650329/206099623-6bcf5231-5277-470d-8cb4-8210506c554d.png" width="200px" align="center">|[Precious](https://github.com/nieshakenzie/HackTheBox/blob/main/WriteUp/Precious.md)|
 |4|<img src="https://user-images.githubusercontent.com/67650329/206399168-be61400d-a89c-49c5-8c19-b0210708b5a5.png" width="200px" align="center">|[Photobomb](https://github.com/nieshakenzie/HackTheBox/blob/main/WriteUp/Photobomb.md)|
 |5|<img src="https://user-images.githubusercontent.com/67650329/208110807-3c7e022f-c6f3-4484-9f86-ec3460080c7f.png" width="200px" align="center">|[Ambassador](https://github.com/nieshakenzie/HackTheBox/blob/main/WriteUp/Ambassador.md)|
+|6|<img src="https://user-images.githubusercontent.com/67650329/208854616-f92bba39-9249-47ca-8fd6-f73111adafd0.png" width="200px" align="center">|[Ambassador](https://github.com/nieshakenzie/HackTheBox/blob/main/WriteUp/Soccer.md)|
